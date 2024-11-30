@@ -1,3 +1,5 @@
 TUGAS MEMBUAT METODE PEMBAYARAN MENGGUNAKAN IMPLEMENTATIONS DAN INTERFACE
 KEL: Irfan hanif saputra/ l200230020
      Haydar Aulia Rahman/ l200230051
+     Afkar Fakhru Ryanto/ l200230045
+     Bimo Arya Rahma Putra/ l00230057
